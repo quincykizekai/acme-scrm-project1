@@ -3,7 +3,6 @@
 The complete **Supply Chain Risk Management Plan & Dynamic Risk Register** for Acme Widgets Inc. is hosted on SharePoint. This single Word/PDF deliverable contains every section of the project, including:
 
 - **Title Page**: Project name, author, and date  
-- **Table of Contents**: Quick navigation to each major section  
 - **1. Introduction**: Purpose & objectives of the C-SCRM program  
 - **2. Scope & Roles**: In-scope suppliers, risk appetite, roles & responsibilities  
 - **3. Policy & Strategy**: Formal policy statements, governance model, review cadence  
